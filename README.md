@@ -5,7 +5,7 @@ Em constante desenvolvimento para evoluir junto com as novas tecnologias.
 ## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/glauberclimaco)
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=fff)](linkedin.com/in/glauber-de-almeida-climaco-da-silva-539bb5105)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/glauber-de-almeida-climaco-da-silva-539bb5105)
 
 ## Habilidades
 
